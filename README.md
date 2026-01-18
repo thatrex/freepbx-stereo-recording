@@ -1,6 +1,6 @@
 # FreePBX Stereo Recording
 
-###### _Tested on FreePBX 17.0.24 (Asterisk 21.12.0)_
+###### _Tested on FreePBX 17.0.24 (Asterisk 20.17.0 & 21.12.0)_
 
 This [config](#config) allows FreePBX to record in stereo. FreePBX's CDR always plays recordings in mono, as such you will only hear the recording in stereo when downloaded.
 
